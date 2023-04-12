@@ -2,6 +2,8 @@
 
 This Python script scrapes the Dineout website for restaurant information in Indore, Madhya Pradesh and saves it to a text file.
 
+Scraping Website : `https://www.dineout.co.in`
+
 ## Requirements
 
 - Python 3.x
